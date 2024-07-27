@@ -1,4 +1,6 @@
 
+// available also in js
+
     const getShuffledNumbers = () => {
         const numbers = Array.from({ length: 25 }, (_, i) => i + 1);
         for (let i = numbers.length - 1; i > 0; i--) {
