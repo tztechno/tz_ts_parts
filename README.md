@@ -1,1 +1,3 @@
-# tz_typescript_parts
+# tz_ts_parts
+
+from .ts or .tsx
