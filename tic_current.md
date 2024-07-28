@@ -1,5 +1,7 @@
 
 
+    const current = history[stepNumber];
+    
 ------------------------------------------------------------
 
                     <div className={styles.gameBoard}>
