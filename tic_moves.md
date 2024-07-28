@@ -1,5 +1,5 @@
 
-    const current = history[stepNumber];
+
 
     const moves = history.map((step, move) => {
         const desc = move ?
